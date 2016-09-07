@@ -1,6 +1,6 @@
 {
   "name": "cornerstonelabs-servermonitor-server",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/CornerstoneLabs/servermonitor-server#readme",
   "dependencies": {
+    "socket.io": "^1.4.8",
     "uuid": "^2.0.2"
   }
 }
